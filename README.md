@@ -1,5 +1,5 @@
-# wordle-game
-This is an implementation of wordle game, it looks like the game <a href="https://www.mordle.io/">mordle</a>.
+# word-guess-game
+This is an implementation of word guess game, it looks like the game <a href="https://www.mordle.io/">mordle</a>.
 
 ## To start the game
 First, please clone it to your terminal:
