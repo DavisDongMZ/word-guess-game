@@ -18,4 +18,8 @@ nodejs wordle.js
 ## Change the port number
 Since this game you cloned will run on your local, you can change the any valid port number as you want.
 
+## How to play the game
+First click on the play button shown green on the picture below:
 <img width="960" alt="image" src="https://github.com/DavisDongMZ/wordle-game/assets/106778621/a5ea062c-775b-4b9f-b3a4-1e7654cc93d8">
+
+When you click on keyboard, you can put letter(s) in the letter box or delete letter(s). When letter length is 5, click enter to get the result.
